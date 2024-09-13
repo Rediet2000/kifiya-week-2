@@ -4,7 +4,7 @@ streamlit
 zscore
 LinearRegression
 train_test_split
-mean_squared_error, r2_score
+mean_squared_error
 SimpleImputer
 matplotlib.pyplot 
 seaborn
